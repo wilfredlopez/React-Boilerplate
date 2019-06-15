@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Included to the package boilerplate
+
+React-router-dom, React-redux(with Easy-peasy) and React-Strap
+
 ## Available Scripts
 
 In the project directory, you can run:
